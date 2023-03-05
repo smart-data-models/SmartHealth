@@ -1,6 +1,3 @@
-[submodule "dataModel.COVID19"]
-	path = dataModel.COVID19
-	url = https://github.com/smart-data-models/dataModel.COVID19.git
 [submodule "dataModel.Hl7"]
 	path = dataModel.Hl7
 	url = https://github.com/smart-data-models/dataModel.Hl7.git
